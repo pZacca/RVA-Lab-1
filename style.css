@@ -1,0 +1,28 @@
+.margindoscards {
+    margin: 0rem 30rem 2rem 30rem;
+}
+
+.margindostextos {
+    padding: 0rem 7rem 0rem 7rem;
+}
+
+.margindasconferencias {
+    padding: 0rem 3rem 0rem 3rem;
+}
+
+.margindossubtextos {
+    padding: 0rem 2rem 0rem 0rem;
+}
+
+.margindossubcards {
+    margin: 0rem 1rem 0rem 1rem;
+}
+
+.margindasimagens {
+    padding: 0rem 0rem 0rem 0rem;
+}
+
+.list-group-item {
+    min-height: 5rem;
+    margin-top: 1rem;
+}
